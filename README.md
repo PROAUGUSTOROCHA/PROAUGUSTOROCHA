@@ -1,6 +1,6 @@
 ## Bem Vindos ao meu Perfil 💖
 
-Me chamo Prof. Augusto Rocha
+### Me chamo Prof. **Augusto Rocha** ###
 
 - Estou na Plataforma [ALURA](https://www.alura.com.br)
 - Desenvolvendo Linguagem Javascript
