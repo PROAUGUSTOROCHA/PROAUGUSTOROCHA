@@ -1,16 +1,14 @@
-## Hi there 👋
+## Bem Vindos ao meu Perfil 💖
 
-<!--
-**PROAUGUSTOROCHA/PROAUGUSTOROCHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Prof. Augusto Rocha
 
-Here are some ideas to get you started:
+- Estou na Plataforma [ALURA](https://www.alura.com.br)
+- Desenvolvendo Linguagem Javascript
+- Para Organizar e Compartilhar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Você pode entrar em contato comigo ###
+
+augustofreitas@prof.educacao.sp.gov.br
+
+
+![](https://media.tenor.com/dPC2HroogNsAAAAM/lit-fire.gif)
